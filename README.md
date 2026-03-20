@@ -17,7 +17,7 @@ If you need to verify digital media, build robust decentralized architectures, o
 
 - **Email:** info@sanmarcsoft.com
 - **Live Product:** [Verifieddit](https://verifieddit.com)
-- **Company:** [San Marc Software](https://sanmarcsoft.com)
+- **Company:** [SanMarcSoft LLC](https://sanmarcsoft.com)
 
 <!---
 smsmatt/smsmatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
