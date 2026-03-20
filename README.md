@@ -1,4 +1,3 @@
-# Matt | Founder, SanMarcSoft LLC 
 **Building trust in the digital age through software, cryptography, and clear communication.**
 
 I build production-ready applications that solve complex problems at the intersection of AI, verifiable data, and user experience. Recently, I built and launched **[Verifieddit.com](https://verifieddit.com)**, a SaaS platform providing privacy-first media verification and AI-detection.
